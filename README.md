@@ -1,8 +1,8 @@
 # 💫 About Me:
 👋 Hi, I'm Beki – a passionate full-stack developer focused on practical tech solutions.</br>
-🚀 I build apps with Flutter, React, Node.js, and PostgreSQL.
-🎯 Currently working on ... and .... systems.
-💡 Always learning, always building. Let’s collaborate!
+🚀 I build apps with Flutter, React, Node.js, and PostgreSQL.</br>
+🎯 Currently working on ... and .... systems.</br>
+💡 Always learning, always building. Let’s collaborate!</br>
 
 
 ## 🌐 Socials:
